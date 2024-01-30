@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "../../../LASSIP/ESP_TEST"
+		},
+		{
+			"name": "ESP_32_DECODER_2",
+			"path": "."
+		}
+	],
+	"settings": {}
+}
